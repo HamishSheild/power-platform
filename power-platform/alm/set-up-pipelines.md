@@ -33,11 +33,11 @@ Pipelines are now available to all who navigate to the pipelines page for the fi
 
 ### Setting up the platform host for the first time
 
-If you're the first user in your tenant to navigate to the **Pipelines** page in an environment not already associated with a custom pipelines host, the platform host is provisioned for everyone in the tenant to use.
+If you're the first user in your tenant to navigate to the **Pipelines** page in the solution you want to deploy an environment not already associated with a custom pipelines host, the platform host is provisioned for everyone in the tenant to use.
 
 ### Create a pipeline in Power Apps
 
-First, ensure that you are in the development environment where you want your pipeline to start from.
+First, ensure that you are in the development environment where you want your pipeline to start from and inside the solution that you want to deploy.
 
 Select **Create pipeline** on the command bar or from the **Pipeline** dropdown list.
 
